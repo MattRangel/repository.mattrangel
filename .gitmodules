@@ -1,0 +1,3 @@
+[submodule "repo/script.submerge"]
+	path = repo/script.submerge
+	url = https://github.com/MattRangel/script.submerge
