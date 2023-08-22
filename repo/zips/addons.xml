@@ -17,7 +17,7 @@
             <fanart>fanart.jpg</fanart>
         </assets>
     </extension>
-</addon><addon id="script.submerge" name="Submerge" version="1.1.4" provider-name="MattRangel">
+</addon><addon id="script.submerge" name="Submerge" version="1.1.5" provider-name="MattRangel">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0" />
 		<import addon="script.module.chardet" version="4.0.0" />
